@@ -130,7 +130,7 @@ public class GpuTableEditor {
     }
 
     private static boolean isExynos() {
-        return ChipInfo.which == ChipInfo.type.exynos9820 || ChipInfo.which == ChipInfo.type.exynos9825;
+        return ChipInfo.which == ChipInfo.type.exynos9820 || ChipInfo.which == ChipInfo.type.exynos9830;
     }
 
     public static void mergeBins() {
