@@ -3,7 +3,7 @@
 ### Support list
 
 * Exynos 9820
-* Exynos 9825
+* Exynos 9830
 * For a new device study the code yourself and add it
 
 ### What is this?
@@ -17,7 +17,7 @@
 
 ### How to use?
 
-- Install app on a exynos 9820/25 platform
+- Install app on a exynos 9820/30 platform
 - give su rights
 - press edit gpu freq table
 - select your chipset
