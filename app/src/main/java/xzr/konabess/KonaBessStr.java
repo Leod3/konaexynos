@@ -11,7 +11,7 @@ public class KonaBessStr {
         // Map chip types to corresponding resource strings
         Map<ChipInfo.type, Integer> chipResourceMap = Map.of(
                 ChipInfo.type.exynos9820, R.string.e9820,
-                ChipInfo.type.exynos9825, R.string.e9825
+                ChipInfo.type.exynos9830, R.string.e9830
         );
 
         // Check if chip type exists in the map
