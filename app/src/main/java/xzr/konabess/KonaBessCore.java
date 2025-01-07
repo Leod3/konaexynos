@@ -276,8 +276,8 @@ public class KonaBessCore {
         dtbs = new ArrayList<>();
 
         // Array of supported chip types for easy extensibility
-        String[] chipTypes = {"exynos9820", "exynos9825"};
-        ChipInfo.type[] chipInfoTypes = {ChipInfo.type.exynos9820, ChipInfo.type.exynos9825};
+        String[] chipTypes = {"exynos9820", "exynos9830"};
+        ChipInfo.type[] chipInfoTypes = {ChipInfo.type.exynos9820, ChipInfo.type.exynos9830};
 
         // Iterate through chip types and check each one
         for (int i = 0; i < chipTypes.length; i++) {
